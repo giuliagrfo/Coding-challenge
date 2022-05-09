@@ -1,0 +1,92 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.contenitore{
+  width: 900px;
+  height: 650px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+img{
+  width: 200px;
+  margin-left: 350px;
+  margin-top: 70px;
+}
+
+h1{
+  color: rgba(0,221,0,255);
+  text-align: center;
+  font-family: 'Poppins', sans-serif ;
+  font-weight: 500;
+}
+
+.buttons {
+  width: 700px;
+  background:rgba(0,221,0,255);
+  margin: auto;
+  margin-top: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+.checkbox{
+  width: 700px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+input[type=button]{
+ background-color: rgba(220, 218, 218, 1);
+ border: 0;
+ border-radius: 2px;
+}
+
+.titolo-checkbox{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.oggetto-checkbox{
+  display: block;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  margin-top: 5px;
+}
+
+.carica{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+}
+
+.gino22{
+  width: 200px;
+  height: 20px;
+  background-color: rgba(245,180,83,255);
+  border-radius: 3px;
+}
+
+.mike24{
+  width: 500px;
+  height: 20px;
+  background-color: rgba(30,195,30,255);
+  border-radius: 3px;
+}
+
+.fede15{
+  width: 100px;
+  height: 20px;
+  background-color: rgba(189,65,65,255);
+  border-radius: 3px;
+}
